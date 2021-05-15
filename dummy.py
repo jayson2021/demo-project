@@ -71,3 +71,10 @@ print("HELLO WORLD")
 print("HELLO WORLD")
 print("HELLO WORLD")
 print("HELLO WORLD")
+
+print("ABC 123")
+print("ABC 123")
+print("ABC 123")
+print("ABC 123")
+print("ABC 123")
+
